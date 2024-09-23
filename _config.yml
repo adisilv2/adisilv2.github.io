@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : #
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : #
   location         : "Baltimore"
   employer         : "UMBC"
