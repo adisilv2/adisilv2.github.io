@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : #
+  name             : "Get in Touch"
   pronouns         : "she/her"  
-  bio              : "Get in Touch!"
+  bio              : #
   location         : "Baltimore"
   employer         : "UMBC"
   uri              : # URL
