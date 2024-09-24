@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Get in Touch"
+  name             : "<br/> Get in Touch"
   pronouns         : "she/her"  
   bio              : #
   location         : "Baltimore"
