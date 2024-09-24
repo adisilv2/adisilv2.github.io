@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Adriana is a critical geographer and poltical ecologist broadly interested in understanding the interface between environmental governance and resource extraction. She is currently a PhD Student and National Science Foundation Graduate Fellow at the University of Maryland Baltimore County (UMBC) where her doctoral research focuses on the ecological tradeoffs of green transition policy as well as the political economy of state land and resource management. 
+Adriana is a critical geographer and poltical ecologist broadly interested in understanding the interface between environmental governance and resource extraction. She is currently a PhD Student and National Science Foundation Graduate Fellow at the University of Maryland Baltimore County (UMBC) where her doctoral research focuses on the ecological tradeoffs of green transition policy as well as the political economy of state land and resource management. She holds a BA in Environmental Studies from Bucknell University and an MA in Geography from the University of British Columbia. 
 
 A data-driven personal website
 ======
