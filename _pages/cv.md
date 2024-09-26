@@ -117,18 +117,19 @@ Bucknell University Dean’s List, 2014-2018
 
 *Teaching Assistant*                                                                                             GES 120: Environmental Science and Wildlife Conservation. University of Maryland Baltimore County, 2022-23
 
-*Lead Teaching Assistant*                                                                                        GEOG 122 Geography: Modernity & Globalization, University of British Columbia, 2022
+*Lead Teaching Assistant*                                                                                    
+- GEOG 122 Geography: Modernity & Globalization, University of British Columbia, 2022
 
 *Teaching Assistant*
-GEOG 357: Urbanization in the Global South, University of British Columbia, 2021
+- GEOG 357: Urbanization in the Global South, University of British Columbia, 2021
 
 *Teaching Assistant and Discussion Section Lead*                                                                 
-GEOG 122: Geography, Modernity & Globalization, University of British Columbia, 2021
+- GEOG 122: Geography, Modernity & Globalization, University of British Columbia, 2021
 
 *Teaching Assistant*                                                                                             
-ENST 245: Environmental Politics, Bucknell University, 2017
+- ENST 245: Environmental Politics, Bucknell University, 2017
 
-*Teaching Assistant*                                                                                             GEOG 203 Physical & Environmental Geology, Bucknell University, 2015
+*Teaching Assistant*                                                                                             - GEOG 203 Physical & Environmental Geology, Bucknell University, 2015
 
 ## Media 
 
