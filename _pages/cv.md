@@ -113,4 +113,74 @@ Yarnall Prize for Excellence in Environmental Affairs, 2017
 
 Bucknell University Dean’s List, 2014-2018
 
+## Teaching Experience 
+
+*Teaching Assistant*                                                                                             GES 120: Environmental Science and Wildlife Conservation. University of Maryland Baltimore County, 2022-23
+
+*Lead Teaching Assistant*                                                                                        GEOG 122 Geography: Modernity & Globalization, University of British Columbia, 2022
+
+*Teaching Assistant*
+GEOG 357: Urbanization in the Global South, University of British Columbia, 2021
+
+*Teaching Assistant and Discussion Section Lead*                                                                 
+GEOG 122: Geography, Modernity & Globalization, University of British Columbia, 2021
+
+*Teaching Assistant*                                                                                             
+ENST 245: Environmental Politics, Bucknell University, 2017
+
+*Teaching Assistant*                                                                                             GEOG 203 Physical & Environmental Geology, Bucknell University, 2015
+
+## Media 
+
+**Disilvestro, A**. Interviewed for CBC DayBreak North, “BC Subsidizes Oil and Gas in Caribou Habitat,” 2021. Retrieve from https://www.cbc.ca/news/canada/british-columbia/programs/daybreaknorth/cbc-daybreak-north-1.3528069
+
+**DiSilvestro, A**. Interviewed for The Narwhal, “BC funding caribou extinction through fossil fuel subsidies and tax breaks,” 2021. Retrieve from https://thenarwhal.ca/bc-caribou-habitat-fossil-fuel-subsidies/
+
+**DiSilvestro, A**. Interviewed for The Canadian Press, “ BC subsidizes energy drilling on caribou habitat it promised to protect,” 2021. Retrieve from https://vancouversun.com/business/energy/b-c-subsidizes-energy-drilling-on-caribou-habitat-it-promised-to-protect-study-says
+
+## Consultancy Work 
+
+**Roosevelt Institute**. Mapping industrial sites in Dearborn, MI. 2024 
+
+**Roosevelt Institute**. Demographic and Asset Mapping in Baton Rouge, LA. 2024 
+
+**Ekō**. Interpreting defense company shareholder structures for corporate accountability. 2022-2023                                                                                                                
+**My Sea to Sky**. Mapping oil and gas infrastructure to support anti-LNG campaign. 2022
+
+## Professional Development 
+
+Dissertation House (Participant), UMBC Graduate Studies and Professional Development, 2024. 
+
+Writing Compelling Commentary (Participant), UBC Public Humanities Center, 2022. 
+
+Undergraduate Research Experiences Program (Mentor), University of British Columbia, 2021.                       
+
+Instructional Skills Workshop (Participant) , UBC Centre for Teaching, Learning and Technology, 2021. 
+
+## Service 
+
+Dimensions of Political Ecology Conference Organizing Committee (Member), 2023-2024. 
+
+UMBC GES Graduate Student Organization (President), 2023-2024.
+
+Cultural and Political Ecology Board (Student Representative), American Association of Geographers, 2022.                                                                                 
+Green College Academic Committee (Member), University of British Columbia, 2021-2022. 
+
+Geography Undergraduate Committee (Graduate Representative), University of British Columbia, 2021-2022. 
+
+## Professional Memberships
+
+American Association of Geographers (AAG)
+
+Society for Conservation Biology (SCB)
+
+
+
+
+
+
+
+
+
+
 
