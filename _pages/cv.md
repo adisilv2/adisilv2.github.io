@@ -56,8 +56,8 @@ $3,000 - Bucknell University Public Interest Program Fund Recipient, 2017
 
 $3,000 - Bucknell University Emerging Scholars Grant Recipient, 2016
   
-Talks
-======
+## Publications
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
