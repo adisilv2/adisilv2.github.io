@@ -21,7 +21,7 @@ BA - Environmental Studies, Bucknell University, 2018.
   * Supervisor: Amanda Wooden, Second Reader: Peter Wilshusen 
 
 ## Research Areas
-======
+
 Political ecology; biodiversity conservation; geographies of resource extraction; environmental governance; science studies & politics of knowledge; environmental justice; critical GIS
 
 Skills
