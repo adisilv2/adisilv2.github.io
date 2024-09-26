@@ -36,11 +36,25 @@ Program Assistant, Social Science Research Council, 2018-2020
 
 Research Assistant, Bucknell University Department of Environmental Studies, 2014-2018 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Scholarships and Fellowships
+
+$140,000 - National Science Foundation Graduate Research Fellowship, 2022-present          
+
+$2,500 - UBC Green College R. Howard Webster Award, 2021                 
+
+$6,000 - UBC International Tuition Award, 2020-2022
+
+$16,000 - UBC University Graduate Fellowship, 2020-2022 
+
+N/A - Alternate, Fulbright U.S Student Program, 2019
+
+N/A - Awardee, State Department Critical Language Scholarship (Kiswahili), 2018
+
+$80,000 - Bucknell University Presidential Research Fellowship, 2014-2018
+
+$3,000 - Bucknell University Public Interest Program Fund Recipient, 2017
+
+$3,000 - Bucknell University Emerging Scholars Grant Recipient, 2016
   
 Talks
 ======
