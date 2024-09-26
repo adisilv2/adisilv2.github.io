@@ -20,23 +20,10 @@ MA - Geography, University of British Columbia, 2022.
 BA - Environmental Studies, Bucknell University, 2018. 
   * Supervisor: Amanda Wooden, Second Reader: Peter Wilshusen 
 
-## Work experience
+## Research Areas
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Political ecology; biodiversity conservation; geographies of resource extraction; environmental governance; science studies & politics of knowledge; environmental justice; critical GIS
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
