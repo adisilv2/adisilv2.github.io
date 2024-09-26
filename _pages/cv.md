@@ -75,12 +75,33 @@ Johanna Bozuwa, Dustin Mulvaney, Isabel Estevez, **Adriana DiSilvestro**, Kristi
 
 Patrick Bigger, Jens Christiansen, Jessica Dempsey, **Adriana DiSilvestro**, Audrey Irvine-Broque, Sara Nelson, Fernanda Rojas-Marchini, Andrew Schuldt, and Elizabeth Shapiro-Garza. “Beyond the Gap: Placing Biodiversity Finance in the Global Economy.” Third World Network, 2020. Retrieve from https://twn.my/title2/books/Beyond%20the%20Gap/BeyondTheGap%20complete%20report.pdf 
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+*Public Scholarship* 
+
+Adriana DiSilvestro, Audrey Irvine-Broque & Yardain Amron. “Fossil Fuel Subsidies: Big Problem for BC’s Woodland Caribou”. 2021. Retrieve from https://arcg.is/jGCGO0
+
+Adriana DiSilvestro. “Vaccine Mis-and Disinformation”. Social Science Research Council, 2020. Retrieve from https://mediawell.ssrc.org/literature-reviews/vaccine-mis-and-disinformation/versions/1-0/ 
+
+## Presentations and Invited Talks
+
+**North American Congress for Conservation Biology**. 2024. “Where is Nature in the Green Transformation?: Locating Biodiversity in National Transition Plans.” States of Conservation Biology. (Paper)
+
+**American Association of Geographers Annual Conference**. 2024.  “Narrating the Green State.” The political economy of Nature (with and) beyond financialization. (Paper) (Session Organizer)
+
+**Dimensions of Political Ecology Conference**. 2024. New Financial Frontiers. (Session Organizer). 
+
+**American Association of Geographers Annual Conference**. 2023.  “A Forest of Difference? Interrogating tree-planting as abstract urban solution in Baltimore.” Trees in the City. (Paper)
+
+**North American Congress for Conservation Biology**. 2022. “Spatializing oil and gas subsidies in endangered caribou habitat.” Late breaking session. (Paper). 
+
+**American Association of Geographers Annual Conference**. 2022. “Centering British Columbia’s Wolf Cull in the Political-Economy of Extraction.” Animals and their use of space. (Paper). 
+
+**American Association of Geographers Annual Conference**. 2022. The Power and Potential Perils of Critical-Engaged Scholarship. (Session Organizer, Panelist).
+
+“The Rise of Global For-Profit Conservation Finance: Contexts from Kenya,” Invited Lecture, **GEOG 357: Urbanization in the Global South**, University of British Columbia 2021 
+
+“Fossil Fuel Subsidies: Big Problem for BC’s Woodland Caribou,” Guest Presentations, **GEOG 319: Environmental Impact Assessment**, and **GEOG 510: Social Ecological Systems**, University of British Columbia 2021
+
+ 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
