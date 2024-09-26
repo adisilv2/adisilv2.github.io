@@ -147,7 +147,8 @@ Bucknell University Dean’s List, 2014-2018
 
 **Roosevelt Institute**. Demographic and Asset Mapping in Baton Rouge, LA. 2024 
 
-**Ekō**. Interpreting defense company shareholder structures for corporate accountability. 2022-2023                                                                                                                
+**Ekō**. Interpreting defense company shareholder structures for corporate accountability. 2022-2023    
+
 **My Sea to Sky**. Mapping oil and gas infrastructure to support anti-LNG campaign. 2022
 
 ## Professional Development 
