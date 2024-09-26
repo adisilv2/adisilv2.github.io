@@ -24,14 +24,17 @@ BA - Environmental Studies, Bucknell University, 2018.
 
 Political ecology; biodiversity conservation; geographies of resource extraction; environmental governance; science studies & politics of knowledge; environmental justice; critical GIS
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research & Professional Experience
+
+Junior Fellow, Climate and Community Institute, 2023-24
+
+Research Assistant, SSHRC Grant: The Extinction Paradox (UBC Dempsey Lab), 2021-22
+
+Research Assistant, SSHRC Grant: Biodiversity Capital Collective (UBC Dempsey Lab), 2020-21
+
+Program Assistant, Social Science Research Council, 2018-2020
+
+Research Assistant, Bucknell University Department of Environmental Studies, 2014-2018 
 
 Publications
 ======
