@@ -100,8 +100,17 @@ Adriana DiSilvestro. “Vaccine Mis-and Disinformation”. Social Science Resear
 “The Rise of Global For-Profit Conservation Finance: Contexts from Kenya,” Invited Lecture, **GEOG 357: Urbanization in the Global South**, University of British Columbia 2021 
 
 “Fossil Fuel Subsidies: Big Problem for BC’s Woodland Caribou,” Guest Presentations, **GEOG 319: Environmental Impact Assessment**, and **GEOG 510: Social Ecological Systems**, University of British Columbia 2021
-
  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Awards and Distinctions 
+
+Phi Beta Kappa Initiate, Bucknell University, 2018
+
+Magna Cum Laude, Bucknell University, 2018
+
+Bucknell Prize for Environmental Studies, 2018
+
+Yarnall Prize for Excellence in Environmental Affairs, 2017 
+
+Bucknell University Dean’s List, 2014-2018
+
+
