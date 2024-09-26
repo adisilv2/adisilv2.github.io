@@ -13,8 +13,10 @@ redirect_from:
 ## Education
 PhD - Geography and Environmental Systems, University of Maryland Baltimore County, [In progress]. 
   * Supervisors: David Lansing, Dillon Mahmoudi
+
 MA - Geography, University of British Columbia, 2022. 
   * Supervisor: Jessica Dempsey, Second Reader: Rosemary-Claire Collard
+
 BA - Environmental Studies, Bucknell University, 2018. 
   * Supervisor: Amanda Wooden, Second Reader: Peter Wilshusen 
 
