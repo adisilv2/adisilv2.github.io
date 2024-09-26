@@ -115,7 +115,7 @@ Bucknell University Dean’s List, 2014-2018
 
 ## Teaching Experience 
 
-*Teaching Assistant*                                                                                             GES 120: Environmental Science and Wildlife Conservation. University of Maryland Baltimore County, 2022-23
+*Teaching Assistant*                                                                                             - GES 120: Environmental Science and Wildlife Conservation. University of Maryland Baltimore County, 2022-23
 
 *Lead Teaching Assistant*                                                                                    
 - GEOG 122 Geography: Modernity & Globalization, University of British Columbia, 2022
