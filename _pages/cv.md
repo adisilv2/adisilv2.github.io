@@ -22,7 +22,7 @@ BA - Environmental Studies, Bucknell University, 2018.
 
 ## Research Areas
 
-Political ecology; biodiversity conservation; geographies of resource extraction; environmental governance; science studies & politics of knowledge; environmental justice; critical GIS
+Political ecology; Science & tech studies; biodiversity conservation; geographies of resource extraction; environmental governance; critical GIS
 
 ## Research & Professional Experience
 
@@ -60,7 +60,9 @@ $3,000 - Bucknell University Emerging Scholars Grant Recipient, 2016
 
 *In Peer Reviewed Journals*
 
-**Adriana DiSilvestro** & Audrey-Irvine Broque. “Spatializing Oil & Gas Subsidies in Endangered Woodland Caribou Habitat: A Methodology to Address the Socio-Economic Drivers of Defaunation.” *Conservation Science & Practice*, 2023. 
+**Adriana DiSilvestro**. "Before the Fix: Ecological Displacement and the Making of Nature as Regulatory Subject." *Antipode*, Forthcoming. 
+
+**Adriana DiSilvestro** & Audrey-Irvine Broque. “Spatializing Oil & Gas Subsidies in Endangered Woodland Caribou Habitat: Identifying the Socio-Economic Drivers of Defaunation.” *Conservation Science & Practice*, 2023. 
 
 Jessica Dempsey, Audrey Irvine-Broque, Elizabeth Shapiro-Garza, Patrick Bigger, Jens Christiansen, Sara Nelson, Fernanda Rojas-Marchini, Andrew Schuldt, Sara Nelson, Fernanda Rojas-Marchini, Andrew Schuldt,  Elizabeth Shapiro-Garza, Bhumika Muchhala, and **Adriana DiSilvestro**. “Biodiversity targets will not be met without debt and tax justice”. Nature, Ecology & Evolution. 2022.
 
