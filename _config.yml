@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "<br/> Get in Touch"
-  pronouns         : "she/her"  
+  pronouns         : #
   bio              : #
   location         : "Baltimore"
   employer         : "UMBC"
